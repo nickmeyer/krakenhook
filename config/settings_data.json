@@ -10,6 +10,8 @@
     "type_header_font": "serif",
     "heading_scale": 100,
     "type_body_font": "sans-serif",
+    "page_width": 1400,
+    "accent_icons": "text",
     "checkout_logo_image": "shopify:\/\/shop_images\/krakenhook-01.png",
     "sections": {
       "announcement-bar": {
