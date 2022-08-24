@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Custom Woodworking",
             "heading_size": "h1"
           }
         },
@@ -27,14 +27,15 @@
         "button"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/125469172_1647230718772389_8748002218070181568_n.jpg",
+        "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
