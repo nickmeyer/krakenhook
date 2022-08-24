@@ -2558,9 +2558,12 @@ details[open] > .header__submenu {
 }
 
 /* Header menu */
+
 .header__inline-menu {
   margin-left: -1.2rem;
-  font-family: 'Roboto', sans-serif;
+  font-family: sans-serif;
+  font-size: 2rem;
+  font-weight:bold; 
   text-transform: uppercase; 
   grid-area: navigation;
   display: none;
