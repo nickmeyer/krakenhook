@@ -71,17 +71,25 @@
               "heading": "Policies",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
+          },
+          "7eb36e5d-33fb-468b-9254-a6e0843fbbc7": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Blog Posts",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
           "35689b39-bb7a-4e6d-b996-8ff272dceb74",
           "51c23c78-8523-44d5-8a45-83882b8660f4",
-          "footer-1"
+          "footer-1",
+          "7eb36e5d-33fb-468b-9254-a6e0843fbbc7"
         ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
+          "newsletter_heading": "Stay updated with new products, tips, and more custom project updates",
           "show_social": false,
           "enable_country_selector": true,
           "enable_language_selector": true,
