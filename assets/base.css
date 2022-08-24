@@ -2612,7 +2612,6 @@ details[open] > .header__submenu {
 }
 
 details[open] > .header__menu-item {
-  text-decoration: underline;
   background: #f4f4f4;
 }
 
