@@ -2561,6 +2561,7 @@ details[open] > .header__submenu {
 .header__inline-menu {
   margin-left: -1.2rem;
   font-family: 'Montserrat', sans-serif;
+  transform: uppercase; 
   grid-area: navigation;
   display: none;
 }
