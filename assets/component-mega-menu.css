@@ -81,7 +81,7 @@
 .mega-menu__link:hover{
   color: rgb(var(--color-foreground));
   text-decoration: none;
-  opacity: .6; 
+  opacity: .3; 
   transition: 0.3s;
 }
 
