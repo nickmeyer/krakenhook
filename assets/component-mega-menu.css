@@ -1,6 +1,7 @@
 .mega-menu {
   position: static;
   font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
 }
 
 .mega-menu__content {
