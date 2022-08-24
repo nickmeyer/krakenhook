@@ -51,23 +51,31 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
+          "35689b39-bb7a-4e6d-b996-8ff272dceb74": {
+            "type": "text",
             "settings": {
               "heading": "Contact",
-              "menu": "footer"
+              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            }
+          },
+          "51c23c78-8523-44d5-8a45-83882b8660f4": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "main-menu"
             }
           },
           "footer-1": {
             "type": "text",
             "settings": {
-              "heading": "Heading",
+              "heading": "Policies",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
           }
         },
         "block_order": [
-          "footer-0",
+          "35689b39-bb7a-4e6d-b996-8ff272dceb74",
+          "51c23c78-8523-44d5-8a45-83882b8660f4",
           "footer-1"
         ],
         "settings": {
