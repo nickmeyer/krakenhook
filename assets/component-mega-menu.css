@@ -89,7 +89,7 @@ color: rgb(var(--color-foreground));
 
 .mega-menu__link--active:hover {
   text-decoration-thickness: 0.4; 
-  color: blue;
+  color: navy;
 }
 
 .mega-menu .mega-menu__list--condensed {
