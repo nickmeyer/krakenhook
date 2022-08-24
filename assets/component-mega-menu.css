@@ -58,6 +58,7 @@
 
 .mega-menu__link--level-2 {
   font-size: 1.6rem;
+  font-weight: bold;
   text-transform: capitalize;
 }
 
