@@ -7,8 +7,9 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#F3F3F3",
-    "type_header_font": "assistant_n4",
-    "type_body_font": "assistant_n4",
+    "type_header_font": "serif",
+    "heading_scale": 100,
+    "type_body_font": "sans-serif",
     "checkout_logo_image": "shopify:\/\/shop_images\/krakenhook-01.png",
     "sections": {
       "announcement-bar": {
