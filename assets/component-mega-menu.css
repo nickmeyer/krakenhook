@@ -39,7 +39,6 @@
 
 .mega-menu__list {
   display: grid;
-  font-family: sans-serif;
   gap: 2.4rem 4rem;
   grid-template-columns: repeat(6, minmax(0, 1fr));
   list-style: none;
