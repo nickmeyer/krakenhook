@@ -12,6 +12,8 @@
     "type_body_font": "sans-serif",
     "page_width": 1400,
     "accent_icons": "text",
+    "predictive_search_enabled": true,
+    "cart_type": "page",
     "checkout_logo_image": "shopify:\/\/shop_images\/krakenhook-01.png",
     "sections": {
       "announcement-bar": {
