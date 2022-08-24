@@ -2560,7 +2560,7 @@ details[open] > .header__submenu {
 /* Header menu */
 .header__inline-menu {
   margin-left: -1.2rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-transform: uppercase; 
   grid-area: navigation;
   display: none;
