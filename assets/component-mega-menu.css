@@ -81,8 +81,8 @@
 .mega-menu__link--active {
   color: rgb(var(--color-foreground));
   text-decoration: none;
-  opacity: 1; 
-  
+  opacity: .6; 
+  transition: 0.3s;
 }
 
 .mega-menu__link--active:hover {
