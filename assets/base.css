@@ -2590,11 +2590,12 @@ details[open] > .header__submenu {
 
 .header__menu {
   padding: 0 1rem;
-  text-transform: uppercase;
+
 }
 
 .header__menu-item {
   padding: 1.2rem;
+    text-transform: uppercase;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
 }
