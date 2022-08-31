@@ -2596,7 +2596,8 @@ details[open] > .header__submenu {
 .header__menu-item {
   padding: 1.0rem;
   text-transform: uppercase;
-  font-size: 2rem;
+  font-size: 1.6rem;
+  font-family: sans-serif;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
 }
