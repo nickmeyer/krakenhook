@@ -2590,6 +2590,7 @@ details[open] > .header__submenu {
 
 .header__menu {
   padding: 0 1rem;
+  text-transform: uppercase;
 }
 
 .header__menu-item {
