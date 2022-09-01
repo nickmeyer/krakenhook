@@ -20,7 +20,8 @@
     "accent_icons": "text",
     "predictive_search_enabled": true,
     "predictive_search_show_price": true,
-    "cart_type": "notification",
+    "cart_type": "page",
+    "show_cart_note": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/krakenhook-01.png",
     "sections": {
       "announcement-bar": {
