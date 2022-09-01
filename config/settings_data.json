@@ -23,6 +23,7 @@
     "cart_type": "page",
     "show_cart_note": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/krakenhook-01.png",
+    "checkout_logo_size": "large",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
