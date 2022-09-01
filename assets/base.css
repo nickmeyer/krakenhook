@@ -365,7 +365,6 @@ body,
 
 .text-body {
   font-size: 13px;
-  line-height: 1.3px;
   font-family: var(--font-body-family);
   font-style: var(--font-body-style);
   font-weight: var(--font-body-weight);
