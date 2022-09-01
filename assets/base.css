@@ -1306,6 +1306,7 @@ button.shopify-payment-button__button--unbranded {
   display: inline-flex;
   justify-content: center;
   align-items: center;
+  border: 0px;
   border-radius: 12px;
   padding: 0 2rem;
   cursor: pointer;
