@@ -1,10 +1,10 @@
 {
   "current": {
-    "colors_solid_button_labels": "#0d0707",
-    "colors_accent_1": "#4cadef",
+    "colors_solid_button_labels": "#000000",
+    "colors_accent_1": "#aeeeba",
     "gradient_accent_1": "",
-    "colors_accent_2": "#334FB4",
-    "colors_text": "#121212",
+    "colors_accent_2": "#ffffff",
+    "colors_text": "#062b45",
     "colors_outline_button_labels": "#0d0707",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#F3F3F3",
@@ -21,7 +21,9 @@
     "predictive_search_enabled": true,
     "predictive_search_show_price": true,
     "cart_type": "page",
+    "show_cart_note": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/krakenhook-01.png",
+    "checkout_logo_size": "large",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
