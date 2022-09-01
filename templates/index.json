@@ -6,8 +6,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Custom Nautical  Decor, Yacht and Marine Panels and more..",
-            "heading_size": "h1"
+            "heading": "Coffee, Custom Nautical Decor, Yacht and Marine Panels and more..",
+            "heading_size": "h2"
           }
         },
         "button": {
@@ -27,8 +27,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/125469172_1647230718772389_8748002218070181568_n.jpg",
-        "image_2": "shopify:\/\/shop_images\/125813406_1647230672105727_1597483435431207578_n.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_2310.png",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "adapt_height_first_image": false,
