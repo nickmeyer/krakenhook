@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Coffee, Custom Nautical Decor, Yacht and Marine Panels and more..",
+            "heading": "Coffee and More",
             "heading_size": "h2"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Custom Products",
+            "button_label_1": "Buy Coffee",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -27,7 +27,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_2310.png",
+        "image": "shopify:\/\/shop_images\/COFFEE_VIDEO_-_OPTION_2_-_4K_0-00-00-00.png",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "adapt_height_first_image": false,
