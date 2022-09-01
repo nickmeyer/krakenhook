@@ -28,10 +28,11 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/125469172_1647230718772389_8748002218070181568_n.jpg",
-        "image_overlay_opacity": 40,
+        "image_2": "shopify:\/\/shop_images\/125813406_1647230672105727_1597483435431207578_n.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
