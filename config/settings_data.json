@@ -47,6 +47,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/krakenhook-01_563d15d4-5393-44f0-9844-693440f12b9a.png",
           "logo_width": 250,
           "logo_position": "middle-left",
           "menu": "main-menu",
