@@ -62,25 +62,11 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "35689b39-bb7a-4e6d-b996-8ff272dceb74": {
-            "type": "text",
-            "settings": {
-              "heading": "Contact",
-              "subtext": "<p>info@meyercustom.com<\/p><p><\/p>"
-            }
-          },
           "51c23c78-8523-44d5-8a45-83882b8660f4": {
             "type": "link_list",
             "settings": {
               "heading": "Quick links",
               "menu": "main-menu"
-            }
-          },
-          "footer-1": {
-            "type": "text",
-            "settings": {
-              "heading": "Policies",
-              "subtext": "<p>Shipping Policy <\/p><p>Return Policy <\/p><p>Privacy Policy <\/p><p>About Kraken Hook<\/p>"
             }
           },
           "7eb36e5d-33fb-468b-9254-a6e0843fbbc7": {
@@ -92,9 +78,7 @@
           }
         },
         "block_order": [
-          "35689b39-bb7a-4e6d-b996-8ff272dceb74",
           "51c23c78-8523-44d5-8a45-83882b8660f4",
-          "footer-1",
           "7eb36e5d-33fb-468b-9254-a6e0843fbbc7"
         ],
         "settings": {
@@ -105,7 +89,7 @@
           "enable_country_selector": false,
           "enable_language_selector": false,
           "payment_enable": false,
-          "margin_top": 0,
+          "margin_top": 20,
           "padding_top": 8,
           "padding_bottom": 8
         }
