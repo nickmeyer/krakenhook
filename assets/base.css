@@ -2594,7 +2594,7 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item {
-  padding: 1.5rem;
+  
   text-transform: uppercase;
   font-size: 1.4rem;
   font-family: 'Arvo', serif;
