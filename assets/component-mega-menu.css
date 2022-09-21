@@ -58,6 +58,7 @@
 
 .mega-menu__link--level-2 {
   font-size: 1.6rem;
+  font-family: serif;
   font-weight: bold;
   text-transform: capitalize;
 }
@@ -78,7 +79,7 @@
   padding-right: 1rem;
 }
 .mega-menu__link--active {
-color: rgb(var(--color-foreground));
+
 }
 
 .mega-menu__link:hover{
