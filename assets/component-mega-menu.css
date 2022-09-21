@@ -39,7 +39,7 @@
 
 .mega-menu__list {
   display: grid;
-  gap: 2.4rem 4rem;
+  gap: 2.4rem 10rem;
   grid-template-columns: repeat(6, minmax(0, 1fr));
   list-style: none;
 }
