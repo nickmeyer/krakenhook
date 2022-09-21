@@ -50,13 +50,13 @@
 @media screen and (min-width: 990px) {
   .product--large:not(.product--no-media) .product__media-wrapper {
     max-width: 45%;
-    width: calc(65% - var(--grid-desktop-horizontal-spacing) / 2);
+    width: calc(45% - var(--grid-desktop-horizontal-spacing) / 2);
   }
 
   .product--large:not(.product--no-media) .product__info-wrapper {
     padding-left: 4rem;
     max-width: 25%;
-    width: calc(35% - var(--grid-desktop-horizontal-spacing) / 2);
+    width: calc(25% - var(--grid-desktop-horizontal-spacing) / 2);
   }
 
   .product--medium:not(.product--no-media) .product__media-wrapper,
