@@ -2634,8 +2634,6 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__menu-item:hover .header__active-menu-item {
-  text-decoration-thickness: 0.1rem;
-  color: rgba(0,188,221,1);
 }
 
 .header__submenu {
