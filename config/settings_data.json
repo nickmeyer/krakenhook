@@ -18,6 +18,7 @@
     "buttons_radius": 0,
     "buttons_shadow_opacity": 0,
     "accent_icons": "text",
+    "social_facebook_link": "https:\/\/www.facebook.com\/meyercustoms",
     "predictive_search_enabled": true,
     "predictive_search_show_price": true,
     "cart_type": "page",
