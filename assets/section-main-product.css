@@ -77,6 +77,7 @@
 .shopify-payment-button__button {
   font-family: inherit;
   min-height: 4.6rem;
+
 }
 
 .shopify-payment-button__button [role="button"].focused,
@@ -595,7 +596,7 @@ a.product__text {
 
 @media screen and (min-width: 990px) {
   .product--stacked .product__media-item {
-    max-width: calc(50% - var(--grid-desktop-horizontal-spacing) / 2);
+    max-width: calc(30% - var(--grid-desktop-horizontal-spacing) / 2);
   }
 
   .product__media-list .product__media-item:first-child,
