@@ -74,8 +74,8 @@
 }
 
 .header--top-center .mega-menu__list > li {
-  width: 16%;
-  padding-right: 6rem;
+  width: 25%;
+  padding-right: 2rem;
 }
 .mega-menu__link--active {
 color: rgb(var(--color-foreground));
