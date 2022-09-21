@@ -745,7 +745,7 @@ summary {
 
 summary .icon-caret {
   position: absolute;
-  height: 0.6rem;
+  height: 0.8rem;
   right: 1.5rem;
 
 }
@@ -2673,7 +2673,7 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__menu-item .icon-caret {
-  right: 1rem;
+  right: .2rem;
 }
 
 .header__submenu .icon-caret {
