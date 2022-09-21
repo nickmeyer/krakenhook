@@ -747,7 +747,7 @@ summary .icon-caret {
   position: absolute;
   height: 0.6rem;
   right: 1.5rem;
-  
+
 }
 
 summary::-webkit-details-marker {
@@ -2615,7 +2615,6 @@ details[open] > .header__submenu {
 }
 
 details[open] > .header__menu-item {
-  background: #f4f4f4;
 }
 
 details[open]:hover > .header__menu-item {
