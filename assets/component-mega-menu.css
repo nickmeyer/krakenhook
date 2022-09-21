@@ -98,6 +98,6 @@ color: rgb(var(--color-foreground));
 
 .mega-menu__list--condensed .mega-menu__link {
   font-weight: normal;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   font-family: 'Arvo', serif;
 }
