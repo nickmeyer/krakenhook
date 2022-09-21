@@ -50,13 +50,18 @@
 @media screen and (min-width: 990px) {
   .product--large:not(.product--no-media) .product__media-wrapper {
     max-width: 45%;
-    width: calc(65% - var(--grid-desktop-horizontal-spacing) / 2);
+    width: calc(45% - var(--grid-desktop-horizontal-spacing) / 2);
   }
 
   .product--large:not(.product--no-media) .product__info-wrapper {
     padding-left: 4rem;
+<<<<<<< HEAD
     max-width: 55%;
     width: calc(35% - var(--grid-desktop-horizontal-spacing) / 2);
+=======
+    max-width: 25%;
+    width: calc(25% - var(--grid-desktop-horizontal-spacing) / 2);
+>>>>>>> ea9dee793d400578bcc7e45a2b00015b5ad55afd
   }
 
   .product--medium:not(.product--no-media) .product__media-wrapper,
