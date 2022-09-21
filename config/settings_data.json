@@ -65,14 +65,14 @@
           "51c23c78-8523-44d5-8a45-83882b8660f4": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "",
               "menu": "main-menu"
             }
           },
           "7eb36e5d-33fb-468b-9254-a6e0843fbbc7": {
             "type": "link_list",
             "settings": {
-              "heading": "Blog Posts",
+              "heading": "",
               "menu": "footer"
             }
           }
