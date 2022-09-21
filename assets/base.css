@@ -2594,7 +2594,7 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item {
-  padding: 30px 0px 0px 0px ;
+  padding: 30px 10px 0px 0px;
   text-transform: uppercase;
   font-size: 1.4rem;
   font-family: 'Arvo', serif;
@@ -2673,7 +2673,7 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__menu-item .icon-caret {
-  right: 0.8rem;
+  right: 1rem;
 }
 
 .header__submenu .icon-caret {
