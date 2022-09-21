@@ -2603,7 +2603,7 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item:hover {
-  color: rgb(var(--color-foreground));
+  color: rgba(0,188,221,1);
 }
 
 .header__menu-item span {
