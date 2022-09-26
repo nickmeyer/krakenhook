@@ -18,6 +18,7 @@
     "buttons_radius": 0,
     "buttons_shadow_opacity": 0,
     "accent_icons": "text",
+    "social_facebook_link": "https:\/\/www.facebook.com\/meyercustoms",
     "predictive_search_enabled": true,
     "predictive_search_show_price": true,
     "cart_type": "page",
@@ -65,14 +66,14 @@
           "51c23c78-8523-44d5-8a45-83882b8660f4": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "",
               "menu": "main-menu"
             }
           },
           "7eb36e5d-33fb-468b-9254-a6e0843fbbc7": {
             "type": "link_list",
             "settings": {
-              "heading": "Blog Posts",
+              "heading": "",
               "menu": "footer"
             }
           }
