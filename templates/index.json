@@ -87,7 +87,7 @@
       "settings": {
         "title": "New Arrivals",
         "heading_size": "h2",
-        "description": "<p>Newly made custom creations. <\/p>",
+        "description": "<p>Custom work<\/p>",
         "show_description": false,
         "description_style": "uppercase",
         "collection": "all",
