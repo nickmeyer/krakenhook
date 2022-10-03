@@ -2600,6 +2600,8 @@ font-size: 17px;
 font-weight: 700;
 line-height: 1;
 letter-spacing: 1.89px;
+text-decoration: none;
+text-transform: uppercase;
 }
 
 .header__menu-item:hover {
