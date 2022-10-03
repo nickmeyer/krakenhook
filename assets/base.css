@@ -2616,7 +2616,7 @@ text-transform: uppercase;
 
 .header__menu-item:hover span {
   text-decoration: underline;
-
+  color: #ffffff;
 }
 
 details[open] > .header__menu-item {
