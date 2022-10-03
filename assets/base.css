@@ -2591,13 +2591,12 @@ details[open] > .header__submenu {
 
 .header__menu {
   padding: 0 0 0 0;
-
 }
 
 .header__menu-item {
 padding: 11px 0.97vw;
-font-family: Rift,sans-serif;
-font-size: 17px;
+font-family: sans-serif;
+font-size: 16px;
 font-weight: 700;
 line-height: 1;
 letter-spacing: 1.89px;
@@ -2615,7 +2614,7 @@ text-transform: uppercase;
 }
 
 .header__menu-item:hover span {
-  text-decoration: underline;
+  text-decoration: none;
   color: #ffffff;
 }
 
