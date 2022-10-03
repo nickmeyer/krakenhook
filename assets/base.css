@@ -2602,7 +2602,7 @@ details[open] > .header__submenu {
 
 .header__menu-item:hover {
   color: #ffffff;
-  background-color: rgba(0,188,221,1);
+
 }
 
 .header__menu-item span {
@@ -2611,6 +2611,7 @@ details[open] > .header__submenu {
 
 .header__menu-item:hover span {
   text-decoration: underline;
+  background-color: rgba(0,188,221,1);
 }
 
 details[open] > .header__menu-item {
