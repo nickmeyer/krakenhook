@@ -2598,7 +2598,6 @@ details[open] > .header__submenu {
   font-size: 1.6rem;
   font-family: sans-serif;
   text-decoration: none;
-  color: rgba(var(--color-foreground), 0.75);
 }
 
 .header__menu-item:hover {
