@@ -46,32 +46,20 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>CNC Custom Decor, Marine,  Custom Woodworking - Premium Handcrafted and Small Batch Coffee <\/p>",
+            "heading": "<p>Custom Decor, Marine,  Custom Woodworking - Premium Handcrafted and Small Batch Coffee <\/p>",
             "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": ""
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Learn More",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Custom decor wood signs and more, handcrafted woodworking, marine dash acryclic panels and more. <\/p><p><strong>Personalized Service:<\/strong>  We are honest, responsive, and detail oriented.<\/p><p><strong>High Quality<\/strong>: Percision CNC laser cut, and hand assembled.<\/p><p><strong>No Risk<\/strong>: 100% satisfied customers.<\/p>"
           }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "text"
       ],
       "settings": {
         "desktop_content_position": "center",
