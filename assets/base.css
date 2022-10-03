@@ -2611,6 +2611,7 @@ details[open] > .header__submenu {
 .header__menu-item:hover span {
   text-decoration: underline;
   color: #ffffff;
+    padding: 2rem 1rem 0rem 2rem;
   background-color: rgba(0,188,221,1);
 }
 
