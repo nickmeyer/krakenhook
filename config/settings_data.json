@@ -2,8 +2,9 @@
   "current": {
     "colors_solid_button_labels": "#000000",
     "colors_accent_1": "#ffae13",
-    "gradient_accent_1": "",
-    "colors_accent_2": "#ffffff",
+    "gradient_accent_1": "linear-gradient(54deg, rgba(255, 174, 19, 1) 14%, rgba(255, 250, 99, 1) 85%)",
+    "colors_accent_2": "#ffae13",
+    "gradient_accent_2": "",
     "colors_text": "#062b45",
     "colors_outline_button_labels": "#0d0707",
     "colors_background_1": "#FFFFFF",
@@ -98,7 +99,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
