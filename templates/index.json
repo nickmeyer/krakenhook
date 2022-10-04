@@ -78,9 +78,9 @@
         "heading_size": "h2",
         "description": "<p>Custom work<\/p>",
         "show_description": false,
-        "description_style": "uppercase",
+        "description_style": "subtitle",
         "collection": "all",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
@@ -94,8 +94,8 @@
         "enable_quick_add": true,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 8,
-        "padding_bottom": 8
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "multi_column": {
