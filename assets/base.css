@@ -1315,7 +1315,7 @@ button.shopify-payment-button__button--unbranded {
   transition: box-shadow var(--duration-short) ease;
   -webkit-appearance: none;
   appearance: none;
-  background-color: #FFAE13;
+  background-color: rgba(var(--color-button), var(--alpha-button-background));
 }
 
 .button:before,
@@ -2893,3 +2893,10 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+
+
+
+.button.product-form__submit.button.button--full-width.button--secondary {
+  background-color: red;
+  color: blue;
+  }
