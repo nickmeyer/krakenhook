@@ -45,8 +45,9 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "<p>Custom Decor, Marine,  Custom Woodworking - Premium Handcrafted and Small Batch Coffee <\/p>",
+            "heading": "<p>High Quality Woodworking Prodcuts<\/p>",
             "heading_size": "h2"
           }
         },
