@@ -45,15 +45,16 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "<p>Custom Decor, Marine,  Custom Woodworking - Premium Handcrafted and Small Batch Coffee <\/p>",
+            "heading": "<p>High Quality Woodworking Prodcuts<\/p>",
             "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Custom decor wood signs and more, handcrafted woodworking, marine dash acryclic panels and more. <\/p><p><strong>Personalized Service:<\/strong>  We are honest, responsive, and detail oriented.<\/p><p><strong>High Quality<\/strong>: Percision CNC laser cut, and hand assembled.<\/p><p><strong>No Risk<\/strong>: 100% satisfied customers.<\/p>"
+            "text": "<p>Custom woodworking and creations. Custom decor, garage toolholders, marine dash acryclic panels, custom signs for weddings and major events. High quality - CNC created products. <\/p><p><strong>Personalized Service:<\/strong>  We are honest, responsive, and detail oriented. Work directly with us customize per your needs. <\/p><p><strong>High Quality<\/strong>: Percision CNC. laser cut, and hand assembled.<\/p><p>100% satisfied customers.<\/p>"
           }
         }
       },
@@ -77,9 +78,9 @@
         "heading_size": "h2",
         "description": "<p>Custom work<\/p>",
         "show_description": false,
-        "description_style": "uppercase",
+        "description_style": "subtitle",
         "collection": "all",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
@@ -93,8 +94,8 @@
         "enable_quick_add": true,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 8,
-        "padding_bottom": 8
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "multi_column": {
