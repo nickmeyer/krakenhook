@@ -195,8 +195,8 @@ quick-add-modal .product-form__buttons {
 }
 
 .quick-add__submit {
-  padding: 0.8rem;
-  min-width: 25%;
+  padding: 0.5rem;
+  min-width: 100%;
   background-color: #ffae13;
   box-sizing: border-box;
 }
