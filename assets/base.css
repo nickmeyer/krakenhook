@@ -2893,10 +2893,3 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
-
-
-
-.button.product-form__submit.button.button--full-width.button--secondary {
-  background-color: red;
-  color: blue;
-  }
