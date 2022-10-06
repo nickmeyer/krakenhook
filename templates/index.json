@@ -74,9 +74,9 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "New Arrivals",
+        "title": "",
         "heading_size": "h2",
-        "description": "<p>Custom work<\/p>",
+        "description": "",
         "show_description": false,
         "description_style": "subtitle",
         "collection": "homepage",
