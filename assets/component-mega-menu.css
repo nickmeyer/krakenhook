@@ -40,7 +40,7 @@
 .mega-menu__list {
   display: grid;
   gap: 1rem 1rem;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   list-style: none;
 }
 
@@ -76,7 +76,7 @@
 }
 
 .header--top-center .mega-menu__list > li {
-  width: 50%;
+  width: 25%;
   padding-right: .8rem;
 }
 .mega-menu__link--active {
