@@ -2608,7 +2608,7 @@ text-transform: uppercase;
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
-  opacity: 0.6;
+  opacity: 1;
   transition: 0.3s;
   padding: .5rem;
 }
@@ -2616,7 +2616,7 @@ text-transform: uppercase;
 .header__menu-item:hover span {
   text-decoration: none;
   color: #ffffff;
-    opacity: 1;
+    opacity: .5;
   background-color: rgb(11,11,69);
 }
 
