@@ -1303,7 +1303,7 @@ button.shopify-payment-button__button--unbranded {
   align-items: center;
   border: 0;
   padding: 3px;
-  font-family: sans-serif;
+  font-family: monospace;
   text-transform: uppercase;
   cursor: pointer;
   font-size: 14px;
