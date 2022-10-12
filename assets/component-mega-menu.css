@@ -47,7 +47,7 @@
 .mega-menu__link {
   color: rgb(255,255,255);
   display: block;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   line-height: calc(1 + 0.3 / var(--font-body-scale));
   padding-bottom: 0.6rem;
   padding-top: 0.6rem;
@@ -57,7 +57,7 @@
 }
 
 .mega-menu__link--level-2 {
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   font-family: var(--font-heading-family);
   font-weight: bold;
   color: #ffffff;
