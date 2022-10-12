@@ -2679,7 +2679,7 @@ details[open] > .header__menu-item .icon-caret {
 
 .header__submenu .icon-caret {
   flex-shrink: 0;
-  margin-left: 1rem;
+  margin-left: .5rem;
   position: static;
 }
 
