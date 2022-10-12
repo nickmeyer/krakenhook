@@ -2607,11 +2607,11 @@ text-transform: uppercase;
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
+  padding: 1rem;
 }
 
 .header__menu-item:hover span {
   text-decoration: none;
-  padding: 1rem;
   color: #ffffff;
   background-color: rgb(11,11,69);
 }
