@@ -5,6 +5,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "",
             "text_style": "uppercase"
@@ -72,6 +73,15 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "b6cdbafb-b92f-45b4-9a19-23b07f5f3e04": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Custom Ordering Information",
+            "icon": "question_mark",
+            "content": "<p>{{ product.metafields.custom.customorderinstructions | metafield_tag }}<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -85,7 +95,8 @@
         "description",
         "75167096-ea16-467b-a109-e4441a721585",
         "2acab0d0-3520-450b-98bd-bdacc44c53e9",
-        "share"
+        "share",
+        "b6cdbafb-b92f-45b4-9a19-23b07f5f3e04"
       ],
       "settings": {
         "enable_sticky_info": true,
