@@ -47,9 +47,9 @@
         "75167096-ea16-467b-a109-e4441a721585": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "<p>{{ product.metafields.my_fields.description_long | metafield_tag }}<\/p>",
+            "heading": "Specifications",
+            "icon": "clipboard",
+            "content": "<p>{{ product.metafields.my_fields.specifications | metafield_tag }}<\/p>",
             "page": ""
           }
         },
