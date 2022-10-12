@@ -49,7 +49,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "inverse",
+          "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/logo_new-01.png",
           "logo_width": 250,
           "logo_position": "top-left",
