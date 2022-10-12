@@ -85,7 +85,7 @@
           "7eb36e5d-33fb-468b-9254-a6e0843fbbc7"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
           "newsletter_heading": "Sign up for newly added products and more.",
           "show_social": true,
