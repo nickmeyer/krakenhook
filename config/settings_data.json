@@ -18,6 +18,7 @@
     "buttons_border_opacity": 0,
     "buttons_radius": 0,
     "buttons_shadow_opacity": 0,
+    "variant_pills_radius": 10,
     "accent_icons": "text",
     "social_facebook_link": "https:\/\/www.facebook.com\/meyercustoms",
     "predictive_search_enabled": true,
