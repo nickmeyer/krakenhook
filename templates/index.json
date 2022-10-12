@@ -1,35 +1,5 @@
 {
   "sections": {
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Custom is our specialty<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Meyer Custom produces high-quality, personalized products made with quality craftsmanship and personalization. We specialize in engraved wooden products, nautical inspired home decor, marine (boat) instrument panels and more. <\/p><p>We create customized and personalized products that can hold a treasured place in your family or business for years to come. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -55,6 +25,36 @@
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Custom is our specialty<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Meyer Custom produces high-quality, personalized products made with quality craftsmanship and personalization. We specialize in engraved wooden products, nautical inspired home decor, marine instrument panels and more. <\/p><p>We create customized and personalized products that can hold a treasured place in your family or business for years to come. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "image_banner": {
@@ -99,8 +99,8 @@
     }
   },
   "order": [
-    "rich_text",
     "featured_products",
+    "rich_text",
     "image_banner"
   ]
 }
