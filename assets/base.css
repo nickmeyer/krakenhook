@@ -1302,10 +1302,10 @@ button.shopify-payment-button__button--unbranded {
   justify-content: center;
   align-items: center;
   border: 0;
-  padding: 4px;
+  padding: 3px;
   cursor: pointer;
-  font: inherit;
-  font-size: 15px;
+  font: serif;
+  font-size: 16px;
   font-weight: 600;
   text-decoration: none;
   color: rgb(var(--color-button-text));
