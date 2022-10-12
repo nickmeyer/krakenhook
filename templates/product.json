@@ -5,8 +5,9 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "{{ product.vendor }}",
+            "text": "",
             "text_style": "uppercase"
           }
         },
@@ -49,6 +50,33 @@
           "settings": {
           }
         },
+        "75167096-ea16-467b-a109-e4441a721585": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Specifications",
+            "icon": "clipboard",
+            "content": "<p>{{ product.metafields.my_fields.specifications | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
+        "b6cdbafb-b92f-45b4-9a19-23b07f5f3e04": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Custom Ordering Information",
+            "icon": "question_mark",
+            "content": "<p>{{ product.metafields.custom.customorderinstructions | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
+        "2acab0d0-3520-450b-98bd-bdacc44c53e9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns\/Exchanges",
+            "icon": "return",
+            "content": "<p>{{ product.metafields.my_fields.returninformation | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -65,6 +93,9 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "75167096-ea16-467b-a109-e4441a721585",
+        "b6cdbafb-b92f-45b4-9a19-23b07f5f3e04",
+        "2acab0d0-3520-450b-98bd-bdacc44c53e9",
         "share"
       ],
       "settings": {
