@@ -1,60 +1,19 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Custom Cutting Boards",
-            "heading_size": "h2"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "SHOP NOW",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hp_1_2022.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "top-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
         "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "<p>High Quality Woodworking Prodcuts<\/p>",
+            "heading": "<p>Custom is our specialty.<\/p>",
             "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Custom woodworking and creations. Custom decor, garage toolholders, marine dash acryclic panels, custom signs for weddings and major events. High quality - CNC created products. <\/p><p><strong>Personalized Service:<\/strong>  We are honest, responsive, and detail oriented. Work directly with us customize per your needs. <\/p><p><strong>High Quality<\/strong>: Percision CNC. laser cut, and hand assembled.<\/p><p>100% satisfied customers.<\/p>"
+            "text": "<p>Meyer Custom produces high-quality, personalized products made with quality craftsmanship and personalization. We specialize in engraved wooden products, nautical inspired home decor, marine (boat) instrument panels and more. <\/p><p>We create customized and personalized products that can hold a treasured place in your family or business for years to come. <\/p>"
           }
         }
       },
@@ -74,12 +33,12 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "New Arrivals",
+        "title": "",
         "heading_size": "h2",
-        "description": "<p>Custom work<\/p>",
+        "description": "",
         "show_description": false,
         "description_style": "subtitle",
-        "collection": "all",
+        "collection": "homepage",
         "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": false,
@@ -98,65 +57,50 @@
         "padding_bottom": 16
       }
     },
-    "multi_column": {
-      "type": "multicolumn",
-      "disabled": true,
+    "image_banner": {
+      "type": "image-banner",
       "blocks": {
-        "column1": {
-          "type": "column",
+        "heading": {
+          "type": "heading",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "heading": "",
+            "heading_size": "h2"
           }
         },
-        "column2": {
-          "type": "column",
+        "button": {
+          "type": "buttons",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/collections\/homepage",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "heading",
+        "button"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h2",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image": "shopify:\/\/shop_images\/IMG_4160.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
-    "image_banner",
     "rich_text",
     "featured_products",
-    "multi_column"
+    "image_banner"
   ]
 }
