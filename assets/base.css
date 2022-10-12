@@ -1306,13 +1306,13 @@ button.shopify-payment-button__button--unbranded {
   font-family: monospace;
   text-transform: uppercase;
   cursor: pointer;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
   color: rgb(var(--color-button-text));
   transition: box-shadow var(--duration-short) ease;
   -webkit-appearance: none;
   appearance: none;
-  background-color: rgba(var(--color-button));
+  background-color: rgba(var(--color-button), var(--alpha-button-background));
 }
 
 .button:before,
