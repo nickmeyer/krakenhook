@@ -1305,6 +1305,7 @@ button.shopify-payment-button__button--unbranded {
   padding: 3px;
   font-family: monospace;
   text-transform: uppercase;
+  text-decoration: none;
   cursor: pointer;
   font-size: 15px;
   font-weight: 600;
