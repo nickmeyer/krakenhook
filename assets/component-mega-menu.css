@@ -76,8 +76,8 @@
 }
 
 .header--top-center .mega-menu__list > li {
-  width: 35%;
-  padding-right: 1rem;
+  width: 45%;
+  padding-right: .8rem;
 }
 .mega-menu__link--active {
 
@@ -103,5 +103,5 @@
 .mega-menu__list--condensed .mega-menu__link {
   font-weight: normal;
   font-size: 1.6rem;
-  font-family: 'Arvo', serif;
+  font-family: serif;
 }
