@@ -44,6 +44,11 @@
             "show_dynamic_checkout": false
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "75167096-ea16-467b-a109-e4441a721585": {
           "type": "collapsible_tab",
           "settings": {
@@ -53,9 +58,13 @@
             "page": ""
           }
         },
-        "description": {
-          "type": "description",
+        "2acab0d0-3520-450b-98bd-bdacc44c53e9": {
+          "type": "collapsible_tab",
           "settings": {
+            "heading": "Returns\/Exchanges",
+            "icon": "return",
+            "content": "<p>{{ product.metafields.my_fields.returninformation | metafield_tag }}<\/p>",
+            "page": ""
           }
         },
         "share": {
@@ -73,8 +82,9 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "75167096-ea16-467b-a109-e4441a721585",
         "description",
+        "75167096-ea16-467b-a109-e4441a721585",
+        "2acab0d0-3520-450b-98bd-bdacc44c53e9",
         "share"
       ],
       "settings": {
