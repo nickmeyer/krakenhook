@@ -2612,7 +2612,7 @@ text-transform: uppercase;
 .header__menu-item:hover span {
   text-decoration: none;
   color: #ffffff;
-  background-color: rgba(0,188,221);
+  background-color: rgb(11,11,69);
 }
 
 details[open] > .header__menu-item {
