@@ -2607,7 +2607,7 @@ text-transform: uppercase;
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
-  padding: .2rem;
+  padding: .5rem;
 }
 
 .header__menu-item:hover span {
@@ -2674,7 +2674,7 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__menu-item .icon-caret {
-  right: .2rem;
+  right: .5rem;
 }
 
 .header__submenu .icon-caret {
