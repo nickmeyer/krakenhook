@@ -2615,7 +2615,7 @@ text-transform: uppercase;
 
 .header__menu-item:hover span {
   text-decoration: none;
-  padding: 2rem;
+  margin: 2rem;
   color: #ffffff;
   background-color: rgba(0,188,221);
 }
