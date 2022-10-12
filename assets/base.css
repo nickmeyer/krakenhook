@@ -2608,14 +2608,13 @@ text-transform: uppercase;
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
-  opacity: 1;
-  transition: 0.3s;
-  padding: .5rem;
+  padding: .6rem;
 }
 
 .header__menu-item:hover span {
   text-decoration: none;
   color: #ffffff;
+  transition: 0.3s;
     opacity: .5;
   background-color: rgb(11,11,69);
 }
