@@ -1,6 +1,6 @@
 .mega-menu {
   position: static;
-  font-family: var(--font-body-scale);
+  font-family: var(--font-heading-family);
   text-transform: capitalize;
 }
 
@@ -58,7 +58,7 @@
 
 .mega-menu__link--level-2 {
   font-size: 1.7rem;
-  font-family: var(--font-heading_scale);
+  font-family: var(--font-heading-family);
   font-weight: bold;
   color: #ffffff;
   text-transform: uppercase;
