@@ -2608,7 +2608,7 @@ text-transform: uppercase;
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
-  padding: 1rem 1rem 1rem 1rem;
+  padding: 1rem 1rem .5rem 1rem;
 }
 
 .header__menu-item:hover span {
