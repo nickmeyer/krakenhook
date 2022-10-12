@@ -1,6 +1,6 @@
 .mega-menu {
   position: static;
-  font-family: sans-serif;
+  font-family: var(--font-body-scale);
   text-transform: capitalize;
 }
 

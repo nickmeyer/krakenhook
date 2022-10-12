@@ -1,7 +1,4 @@
 /* Color custom properties */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
-
 :root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
