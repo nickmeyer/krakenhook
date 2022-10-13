@@ -78,11 +78,19 @@
               "heading": "Policies",
               "menu": "footer"
             }
+          },
+          "d864295c-043c-4f8a-b730-2774ea85662b": {
+            "type": "text",
+            "settings": {
+              "heading": "Meyer Custom LLC",
+              "subtext": "<p>We are a small family operated business, located in Jensen Beach, Florida. <\/p><p>Locally sourced materials and built locally. <\/p><p><a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">Email us <\/a>for any inquiries. <\/p>"
+            }
           }
         },
         "block_order": [
           "51c23c78-8523-44d5-8a45-83882b8660f4",
-          "7eb36e5d-33fb-468b-9254-a6e0843fbbc7"
+          "7eb36e5d-33fb-468b-9254-a6e0843fbbc7",
+          "d864295c-043c-4f8a-b730-2774ea85662b"
         ],
         "settings": {
           "color_scheme": "background-2",
