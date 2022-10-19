@@ -73,7 +73,7 @@
           "settings": {
             "heading": "Returns\/Exchanges",
             "icon": "return",
-            "content": "<p>{{ product.metafields.my_fields.returninformation | metafield_tag }}<\/p>",
+            "content": "<p>{{ product.metafields.custom.returnrefundpolicy | metafield_text }}<\/p>",
             "page": ""
           }
         },
