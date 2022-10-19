@@ -23,6 +23,7 @@
         },
         "template--16391690911986__f71689b5-4c80-4d8a-a04d-6320189a8d13-1665598258e26b1fda-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
