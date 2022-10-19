@@ -99,7 +99,6 @@
     },
     "f71689b5-4c80-4d8a-a04d-6320189a8d13": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16391690911986__f71689b5-4c80-4d8a-a04d-6320189a8d13-1665598258e26b1fda-0": {
           "type": "slide",
@@ -142,10 +141,10 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 7,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
