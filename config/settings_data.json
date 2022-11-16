@@ -12,13 +12,15 @@
     "type_header_font": "josefin_sans_n4",
     "heading_scale": 100,
     "type_body_font": "crimson_text_n4",
-    "page_width": 1100,
+    "page_width": 1200,
     "spacing_sections": 0,
     "buttons_border_thickness": 0,
     "buttons_border_opacity": 0,
     "buttons_radius": 0,
     "buttons_shadow_opacity": 0,
-    "variant_pills_radius": 10,
+    "variant_pills_border_thickness": 1,
+    "variant_pills_border_opacity": 20,
+    "variant_pills_radius": 0,
     "card_style": "standard",
     "card_text_alignment": "left",
     "card_color_scheme": "background-1",
@@ -59,10 +61,10 @@
           "menu": "main-menu",
           "menu_type_desktop": "mega",
           "show_line_separator": false,
-          "enable_sticky_header": false,
+          "enable_sticky_header": true,
           "margin_bottom": 0,
-          "padding_top": 16,
-          "padding_bottom": 0
+          "padding_top": 12,
+          "padding_bottom": 12
         }
       },
       "footer": {
@@ -86,7 +88,7 @@
             "type": "text",
             "settings": {
               "heading": "Meyer Custom LLC",
-              "subtext": "<p>We are a small family operated business, located in Jensen Beach, Florida. <\/p><p>Locally sourced materials.<\/p><p><a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">Email us <\/a>for any inquiries. <\/p>"
+              "subtext": "<p>We are a small family operated business, located in Jensen Beach, Florida.  We specialize in CNC machined products. <\/p><p>Locally sourced materials, where possible. <\/p><p><a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">Email us<\/a> for any custom inquiries. <\/p>"
             }
           }
         },
@@ -96,15 +98,15 @@
           "d864295c-043c-4f8a-b730-2774ea85662b"
         ],
         "settings": {
-          "color_scheme": "background-2",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
-          "newsletter_heading": "Sign up for newly added products and more.",
+          "newsletter_heading": "Sign up for newly added products and upcoming deals.",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,
           "payment_enable": false,
-          "margin_top": 0,
-          "padding_top": 32,
+          "margin_top": 12,
+          "padding_top": 28,
           "padding_bottom": 20
         }
       }
