@@ -98,9 +98,9 @@
           "d864295c-043c-4f8a-b730-2774ea85662b"
         ],
         "settings": {
-          "color_scheme": "background-2",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
-          "newsletter_heading": "Sign up for newly added products and more.",
+          "newsletter_heading": "Sign up for newly added products and upcoming deals.",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,
