@@ -130,6 +130,7 @@
       "blocks": {
         "template--16391690911986__869d41fd-63c8-4283-95a4-a591ee8e9df4-16686487243c82ca2f-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1"
@@ -137,8 +138,9 @@
         },
         "template--16391690911986__869d41fd-63c8-4283-95a4-a591ee8e9df4-16686487243c82ca2f-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -162,15 +164,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/winebottle.png",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     }
   },
