@@ -164,7 +164,7 @@
         "image": "shopify:\/\/shop_images\/winebottle.png",
         "image_overlay_opacity": 30,
         "image_height": "small",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-right",
         "show_text_box": false,
         "desktop_content_alignment": "center",
