@@ -161,10 +161,10 @@
         "template--16391690911986__869d41fd-63c8-4283-95a4-a591ee8e9df4-16686487243c82ca2f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/winebottle.png",
+        "image": "shopify:\/\/shop_images\/wine_50adad45-b277-4785-b933-9a048589b016.png",
         "image_overlay_opacity": 30,
         "image_height": "small",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-right",
         "show_text_box": false,
         "desktop_content_alignment": "center",
