@@ -148,7 +148,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "",
+            "button_link_1": "shopify:\/\/products\/custom-serving-tray",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -164,9 +164,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/winebottle.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-right",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
