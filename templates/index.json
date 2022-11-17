@@ -6,18 +6,18 @@
         "template--16391690911986__f71689b5-4c80-4d8a-a04d-6320189a8d13-1665598258e26b1fda-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wooden-table-texture.jpg",
+            "image": "shopify:\/\/shop_images\/cheeseplate.png",
             "heading": "Custom Wood Serving Trays",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "Our custom wood serving trays make the perfect gift for the holidays or any occasion. Every order is handmade and custom, so order now to get it in time for the holidays, or your special event.",
             "button_label": "ORDER NOW",
             "link": "shopify:\/\/products\/custom-serving-tray",
             "button_style_secondary": false,
-            "box_align": "top-right",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 10,
-            "color_scheme": "inverse",
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 50,
+            "color_scheme": "background-2",
             "text_alignment_mobile": "center"
           }
         },
