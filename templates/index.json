@@ -130,10 +130,9 @@
       "blocks": {
         "template--16391690911986__869d41fd-63c8-4283-95a4-a591ee8e9df4-16686487243c82ca2f-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
+            "heading": "Nautical Themed Serverware",
+            "heading_size": "h2"
           }
         },
         "template--16391690911986__869d41fd-63c8-4283-95a4-a591ee8e9df4-16686487243c82ca2f-1": {
@@ -163,7 +162,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/winebottle.png",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-right",
