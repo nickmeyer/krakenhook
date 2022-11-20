@@ -31,7 +31,7 @@
         "56178d74-200a-4687-9f38-2e2004d7bf14": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<p class=\"line-item-property__field\">\n  <label for=\"monogram-last-name\">Monogram Last Name<\/label><br>\n  <input required class=\"required\" id=\"monogram-last-name\" type=\"text\" name=\"properties[Monogram Last Name]\">\n<\/p>"
+            "custom_liquid": "<p>\n<label>Monogram Last Name<\/lable> \n\n <input type=\"text\" name=\"attributes[Monogram]\" value=\"{{ cart.attributes['Monogram'] }}\">"
           }
         },
         "variant_picker": {
