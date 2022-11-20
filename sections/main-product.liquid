@@ -423,7 +423,17 @@
                 </div>
 
                 {%- form 'product', product, id: product_form_id, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' -%}
+                 {% for tag in product.tags %}
+                   {% if tag contains 'input:' %}
+                     {% assign property = tag | replace: 'input:', '' %}
+                    <div class="field">
+                     <input required class="required field_input" id="property-{{property}}" type="text" name="properties[{{ property }}]" 
+                     <label class="field__label" fo="property={{ property }}">{{ property }} </label>
+                    </div>
+                     {% endif %}
+                   {% endfor %}
                   <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}" disabled>
+              
                   <div class="product-form__buttons">
                     <button
                       type="submit"
