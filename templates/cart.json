@@ -7,6 +7,15 @@
         "padding_bottom": 36
       }
     },
+    "4795d4c0-183e-4b5e-99e5-1bfda10bf713": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% assign property_size = item.properties | size %}\n{% if property_size > 0 %}\n  {% for p in item.properties %}\n    {% assign first_character_in_key = p.first | truncate: 1, '' %}\n    {% unless p.last == blank or first_character_in_key == '_' %}\n      {{ p.first }}:\n      {% if p.last contains '\/uploads\/' %}\n        <a class=\"lightbox\" href=\"{{ p.last }}\">{{ p.last | split: '\/' | last }}<\/a>\n      {% else %}\n        {{ p.last }}\n      {% endif %}\n      <br>\n    {% endunless %}\n  {% endfor %}\n{% endif %}",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
@@ -131,6 +140,7 @@
   },
   "order": [
     "cart-items",
+    "4795d4c0-183e-4b5e-99e5-1bfda10bf713",
     "cart-footer",
     "featured-products",
     "16620602804ff4aaf6"
