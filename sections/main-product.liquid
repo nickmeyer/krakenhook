@@ -427,7 +427,7 @@
                    {% if tag contains 'input:' %}
                      {% assign property = tag | replace: 'input:', '' %}
                     <div class="form__label" style="margin-bottom:1.2rem;">
-                      <label class="form__label" for="property={{ property }}">{{ property }} </label><input required class="required form__label" id="property-{{property}}" type="text" name="properties[{{ property }}]" 
+                      <label class="form__label" for="property={{ property }}">{{ property }} </label><input required class="required form__label" id="property-{{property}}" type="text" name="properties[{{ property }}]">
                                   </div>
                      {% endif %}
                    {% endfor %}
