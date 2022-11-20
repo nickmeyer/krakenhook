@@ -428,7 +428,7 @@
                      {% assign property = tag | replace: 'input:', '' %}
                     <div class="field">
                      <input required class="required field_input" id="property-{{property}}" type="text" name="properties[{{ property }}]" 
-                     <label class="field__label" fo="property={{ property }}">{{ property }} </label>
+                     <label class="form__label" fo="property={{ property }}">{{ property }} </label>
                     </div>
                      {% endif %}
                    {% endfor %}
