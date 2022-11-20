@@ -28,12 +28,6 @@
           "settings": {
           }
         },
-        "56178d74-200a-4687-9f38-2e2004d7bf14": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<p>\n<label>Monogram Last Name<\/lable> \n\n <input type=\"text\" name=\"attributes[Monogram]\" value=\"{{ cart.attributes['Monogram'] }}\">"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -43,6 +37,12 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
+          }
+        },
+        "56178d74-200a-4687-9f38-2e2004d7bf14": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p>\n<label>Monogram Last Name<\/lable> \n\n <input type=\"text\" name=\"attributes[Monogram]\" value=\"{{ cart.attributes['Monogram'] }}\">"
           }
         },
         "buy_buttons": {
@@ -95,9 +95,9 @@
         "title",
         "subtitle",
         "price",
-        "56178d74-200a-4687-9f38-2e2004d7bf14",
         "variant_picker",
         "quantity_selector",
+        "56178d74-200a-4687-9f38-2e2004d7bf14",
         "buy_buttons",
         "description",
         "75167096-ea16-467b-a109-e4441a721585",
