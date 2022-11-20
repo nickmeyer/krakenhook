@@ -41,8 +41,9 @@
         },
         "56178d74-200a-4687-9f38-2e2004d7bf14": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
-            "custom_liquid": "<label for=\"engravingText\">Engraving<label>\n  <input type=\"text\" id=\"engravingText\" name=\"properties[Engraving]\">"
+            "custom_liquid": ""
           }
         },
         "buy_buttons": {
