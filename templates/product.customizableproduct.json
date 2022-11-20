@@ -42,7 +42,7 @@
         "56178d74-200a-4687-9f38-2e2004d7bf14": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% form 'product', product %}\n  ...\n  <label for=\"engravingText\">Engraving<label>\n  <input type=\"text\" id=\"engravingText\" name=\"properties[Engraving]\">\n  ...\n{% endform %}"
+            "custom_liquid": "{% form 'product', product %}\n  ...\n  <label for=\"engravingText\">Engraving<label>\n  <input type=\"text\" id=\"engravingText\" name=\"properties[Engraving]\">\n{% endform %}"
           }
         },
         "buy_buttons": {
