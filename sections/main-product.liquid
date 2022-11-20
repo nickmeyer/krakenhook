@@ -426,7 +426,7 @@
                  {% for tag in product.tags %}
                    {% if tag contains 'input:' %}
                      {% assign property = tag | replace: 'input:', '' %}
-                    <div class="field">
+                    <div class="form__label">
                      <input required class="required field_input" id="property-{{property}}" type="text" name="properties[{{ property }}]" 
                      <label class="form__label" fo="property={{ property }}">{{ property }} </label>
                     </div>
