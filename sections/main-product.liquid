@@ -426,9 +426,10 @@
                  {% for tag in product.tags %}
                    {% if tag contains 'input:' %}
                      {% assign property = tag | replace: 'input:', '' %}
-                    <div class="form__label" style="margin-bottom:1.2rem;">
-                      <label class="form__label" for="property={{ property }}">{{ property }} </label><input required class="required form__label" id="property-{{property}}" type="text" name="properties[{{ property }}]">
-                                  </div>
+                    <div class="field" style="margin-bottom:1.2rem;">
+                     <input required class="required field__input" id="property-{{property}}" type="text" name="properties[{{ property }}]" >
+                     <label class="field__label" fo="property={{ property }}">{{ property }} </label>
+                    </div>
                      {% endif %}
                    {% endfor %}
                   <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}" disabled>
