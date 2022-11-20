@@ -10,7 +10,7 @@
     "4795d4c0-183e-4b5e-99e5-1bfda10bf713": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% assign property_size = item.properties | size %}\n{% if property_size > 0 %}\n  {% for p in item.properties %}\n    {% assign first_character_in_key = p.first | truncate: 1, '' %}\n    {% unless p.last == blank or first_character_in_key == '_' %}\n      {{ p.first }}:\n      {% if p.last contains '\/uploads\/' %}\n        <a class=\"lightbox\" href=\"{{ p.last }}\">{{ p.last | split: '\/' | last }}<\/a>\n      {% else %}\n        {{ p.last }}\n      {% endif %}\n      <br>\n    {% endunless %}\n  {% endfor %}\n{% endif %}",
+        "custom_liquid": "{% for item in cart.items %}\n  <!-- line item info -->\n\n  {% unless item.properties == empty %}\n    {% for property in item.properties %}\n      {{ property.first }}:\n\n      {% if property.last contains '\/uploads\/' %}\n        <a href=\"{{ property.last }}\">{{ property.last | split: '\/' | last }}<\/a>\n      {% else %}\n        {{ property.last }}\n      {% endif %}\n    {% endfor %}\n  {% endunless %}\n{% endfor %}",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
