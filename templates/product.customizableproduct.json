@@ -28,6 +28,12 @@
           "settings": {
           }
         },
+        "56178d74-200a-4687-9f38-2e2004d7bf14": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p class=\"line-item-property__field\">\n  <label for=\"monogram-last-name\">Monogram Last Name<\/label>\n  <input required class=\"required\" id=\"monogram-last-name\" type=\"text\" name=\"properties[Monogram Last Name]\">\n<\/p>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -89,6 +95,7 @@
         "title",
         "subtitle",
         "price",
+        "56178d74-200a-4687-9f38-2e2004d7bf14",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
