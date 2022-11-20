@@ -42,7 +42,7 @@
         "56178d74-200a-4687-9f38-2e2004d7bf14": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<p>\n<label>Monogram Last Name<\/lable> \n\n <input type=\"text\" name=\"attributes[Monogram]\" value=\"{{ cart.attributes['Monogram'] }}\">"
+            "custom_liquid": "<label for=\"engravingText\">Monogram Last Name<label>\n  <input type=\"text\" id=\"engravingText\" name=\"properties[Engraving]\">"
           }
         },
         "buy_buttons": {
