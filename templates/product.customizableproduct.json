@@ -5,9 +5,8 @@
       "blocks": {
         "vendor": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "",
+            "text": "Looking for a Custom message or artwork on this board. Please email info@meyercustom.com. We will work with you to create a custom engraving.",
             "text_style": "uppercase"
           }
         },
