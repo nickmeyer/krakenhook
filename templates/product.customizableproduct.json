@@ -3,13 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "Looking for a Custom message or artwork on this board. Please email info@meyercustom.com. We will work with you to create a custom engraving.",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -49,6 +42,13 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "Looking for a Custom message or artwork on this board. Please email info@meyercustom.com. We will work with you to create a custom engraving.",
+            "text_style": "uppercase"
           }
         },
         "description": {
@@ -91,7 +91,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "subtitle",
         "price",
@@ -99,6 +98,7 @@
         "quantity_selector",
         "56178d74-200a-4687-9f38-2e2004d7bf14",
         "buy_buttons",
+        "vendor",
         "description",
         "75167096-ea16-467b-a109-e4441a721585",
         "b6cdbafb-b92f-45b4-9a19-23b07f5f3e04",
