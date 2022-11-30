@@ -219,14 +219,23 @@
         },
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-6": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true
           }
         },
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-7": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
+          }
+        },
+        "a69ff254-e2bf-4217-ab58-bcd679fab683": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": ""
           }
         }
       },
@@ -238,7 +247,8 @@
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-4",
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-5",
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-6",
-        "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-7"
+        "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-7",
+        "a69ff254-e2bf-4217-ab58-bcd679fab683"
       ],
       "settings": {
         "product": "handcrafted-custom-serving-tray-24",
