@@ -419,9 +419,9 @@
       "settings": {
         "layout": "grid",
         "slide_height": "small",
-        "slider_visual": "counter",
+        "slider_visual": "dots",
         "auto_rotate": true,
-        "change_slides_speed": 5,
+        "change_slides_speed": 3,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
