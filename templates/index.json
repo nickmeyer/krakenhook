@@ -13,9 +13,9 @@
             "button_label": "ORDER YOURS TODAY",
             "link": "shopify:\/\/products\/handcrafted-custom-serving-tray-24",
             "button_style_secondary": false,
-            "box_align": "top-right",
+            "box_align": "middle-center",
             "show_text_box": false,
-            "text_alignment": "left",
+            "text_alignment": "center",
             "image_overlay_opacity": 10,
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
