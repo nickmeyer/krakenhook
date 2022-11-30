@@ -266,6 +266,25 @@
         "template--16391690911986__82e48ad8-9378-47b9-911e-dc753309d50d-166983528806d9b64d-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/26196478_861884453973690_2467396728314723629_n.jpg",
+            "heading": "Custom Live Edge shelves",
+            "heading_size": "h2",
+            "subheading": "Custom made live edge shelves.",
+            "button_label": "Contact Meyer Custom",
+            "link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 60,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16391690911986__82e48ad8-9378-47b9-911e-dc753309d50d-166983528806d9b64d-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/26221146_861884670640335_7410675276008590987_o.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -280,9 +299,46 @@
             "text_alignment_mobile": "center"
           }
         },
-        "template--16391690911986__82e48ad8-9378-47b9-911e-dc753309d50d-166983528806d9b64d-1": {
+        "927d1989-9128-4e35-bb74-596c44406474": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/26233644_861884700640332_3048451757227309383_o.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "9ee9120a-9789-4b1e-bd0e-19eb18fce62f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/26239985_861884593973676_7677852743422081623_o.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "b8bd68ff-8337-4810-9836-fb8b5e43b371": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/26686074_861884650640337_6766535981543106338_o.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -300,7 +356,10 @@
       },
       "block_order": [
         "template--16391690911986__82e48ad8-9378-47b9-911e-dc753309d50d-166983528806d9b64d-0",
-        "template--16391690911986__82e48ad8-9378-47b9-911e-dc753309d50d-166983528806d9b64d-1"
+        "template--16391690911986__82e48ad8-9378-47b9-911e-dc753309d50d-166983528806d9b64d-1",
+        "927d1989-9128-4e35-bb74-596c44406474",
+        "9ee9120a-9789-4b1e-bd0e-19eb18fce62f",
+        "b8bd68ff-8337-4810-9836-fb8b5e43b371"
       ],
       "settings": {
         "layout": "grid",
