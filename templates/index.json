@@ -7,13 +7,13 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/meyer_servingtray.png",
-            "heading": "Custom Personalized Serving",
+            "heading": "Custom Personalized Serving Board",
             "heading_size": "h1",
-            "subheading": "Customized and personalized server board for wedding gifts, holiday, and more.",
-            "button_label": "Order Now",
+            "subheading": "Customized, personalized server board for wedding gifts, holiday, and more.",
+            "button_label": "ORDER YOURS TODAY",
             "link": "shopify:\/\/products\/handcrafted-custom-serving-tray-24",
             "button_style_secondary": false,
-            "box_align": "middle-left",
+            "box_align": "top-left",
             "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 20,
@@ -56,6 +56,7 @@
     },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
