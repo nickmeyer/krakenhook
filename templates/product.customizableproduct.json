@@ -48,7 +48,7 @@
           "type": "text",
           "settings": {
             "text": "Looking for a Custom message or artwork on this board. Please email info@meyercustom.com. We will work with you to create a custom engraving.",
-            "text_style": "uppercase"
+            "text_style": "body"
           }
         },
         "description": {
@@ -88,6 +88,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "8c50cfff-4984-4c24-9370-d3182b2e38f5": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.my_fields.spflag.value }}",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -103,7 +110,8 @@
         "75167096-ea16-467b-a109-e4441a721585",
         "b6cdbafb-b92f-45b4-9a19-23b07f5f3e04",
         "2acab0d0-3520-450b-98bd-bdacc44c53e9",
-        "share"
+        "share",
+        "8c50cfff-4984-4c24-9370-d3182b2e38f5"
       ],
       "settings": {
         "enable_sticky_info": false,
