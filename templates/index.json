@@ -184,9 +184,8 @@
         },
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-6": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-7": {
