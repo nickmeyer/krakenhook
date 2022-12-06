@@ -447,8 +447,8 @@
         "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/handcrafted-custom-serving-tray-24"
           }
         }
       },
