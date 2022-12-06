@@ -426,6 +426,50 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "1563bae2-e127-48bc-8f75-590e34133b00": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "New Serving Trays",
+            "heading_size": "h1"
+          }
+        },
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>New serving trays in production. Getting ready for the next local show. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-0",
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-1",
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_4844.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -435,6 +479,7 @@
     "rich_text",
     "869d41fd-63c8-4283-95a4-a591ee8e9df4",
     "bd98ded7-c525-494d-aeac-f80ee10081ed",
-    "82e48ad8-9378-47b9-911e-dc753309d50d"
+    "82e48ad8-9378-47b9-911e-dc753309d50d",
+    "1563bae2-e127-48bc-8f75-590e34133b00"
   ]
 }
