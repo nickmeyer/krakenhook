@@ -46,10 +46,19 @@
               "color_scheme": "background-1",
               "link": ""
             }
+          },
+          "466c6fdc-1a02-4400-9d7e-e426a9d89ad9": {
+            "type": "announcement",
+            "settings": {
+              "text": "Buy One Custom Serving Board Get Another 25% Off",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "466c6fdc-1a02-4400-9d7e-e426a9d89ad9"
         ],
         "settings": {
         }
