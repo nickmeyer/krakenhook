@@ -478,14 +478,14 @@
         "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Custom Dash",
             "heading_size": "h1"
           }
         },
         "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Custom Dash created for 2000 Mako and the boart was upgraded to Czone digital switching. Need a panel or dash that is custom, for your boart. <strong> <\/strong>We work with you to design a great looking replacement dash. Email info@meyercustom.com for more information.<\/p>",
             "text_style": "body"
           }
         },
@@ -503,8 +503,8 @@
         "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/dashmeyer.png",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/dashmeyer_bec50470-62b2-4e43-b8be-56131bda095e.png",
+        "height": "small",
         "desktop_image_width": "large",
         "layout": "text_first",
         "desktop_content_position": "top",
