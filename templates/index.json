@@ -1,49 +1,5 @@
 {
   "sections": {
-    "1563bae2-e127-48bc-8f75-590e34133b00": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "New Serving Trays",
-            "heading_size": "h1"
-          }
-        },
-        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We are excited to announce that we are now producing new serving trays for our next local show. Our trays are made from high-quality materials and feature a unique design that is sure to make a statement. They are perfect for serving appetizers, desserts, and other small dishes. Our trays come in a variety of sizes and colors, so you can find the perfect one for your needs.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Buy Now",
-            "button_link": "shopify:\/\/products\/handcrafted-custom-serving-tray-24"
-          }
-        }
-      },
-      "block_order": [
-        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-0",
-        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-1",
-        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_4844.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "7a0f764c-4bcd-42a7-ad4e-84118a7bde83": {
       "type": "image-with-text",
       "blocks": {
@@ -83,6 +39,50 @@
         "desktop_content_alignment": "right",
         "content_layout": "no-overlap",
         "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1563bae2-e127-48bc-8f75-590e34133b00": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "New Serving Trays",
+            "heading_size": "h1"
+          }
+        },
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are excited to announce that we are now producing new serving trays for our next local show. Our trays are made from high-quality materials and feature a unique design that is sure to make a statement. They are perfect for serving appetizers, desserts, and other small dishes. Our trays come in a variety of sizes and colors, so you can find the perfect one for your needs.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/handcrafted-custom-serving-tray-24"
+          }
+        }
+      },
+      "block_order": [
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-0",
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-1",
+        "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_4844.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -520,8 +520,8 @@
     }
   },
   "order": [
-    "1563bae2-e127-48bc-8f75-590e34133b00",
     "7a0f764c-4bcd-42a7-ad4e-84118a7bde83",
+    "1563bae2-e127-48bc-8f75-590e34133b00",
     "7b2418e1-3a45-4e00-9e40-151bc0a28b3e",
     "image_banner",
     "bd98ded7-c525-494d-aeac-f80ee10081ed",
