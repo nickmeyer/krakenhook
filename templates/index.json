@@ -44,6 +44,50 @@
         "padding_bottom": 36
       }
     },
+    "7a0f764c-4bcd-42a7-ad4e-84118a7bde83": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Custom Dash",
+            "heading_size": "h1"
+          }
+        },
+        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We created a custom dash panel  created for a 00' 22 Mako and the boat was fully upgraded to CZone digital switching. Need a panel or dash that is custom, for your boat. <strong> <\/strong>We work with you to design a custom product using marine HPDE\/Starboard\/Arcylic.  Email info@meyercustom.com for more information.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-0",
+        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-1",
+        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dashmeyer_bec50470-62b2-4e43-b8be-56131bda095e.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "7b2418e1-3a45-4e00-9e40-151bc0a28b3e": {
       "type": "slideshow",
       "blocks": {
@@ -471,61 +515,17 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
-    },
-    "7a0f764c-4bcd-42a7-ad4e-84118a7bde83": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Custom Dash",
-            "heading_size": "h1"
-          }
-        },
-        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We created a custom dash panel  created for a 00' 22 Mako and the boat was fully upgraded to CZone digital switching. Need a panel or dash that is custom, for your boat. <strong> <\/strong>We work with you to design a custom product using marine HPDE\/Starboard\/Arcylic.  Email info@meyercustom.com for more information.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Contact Us",
-            "button_link": "shopify:\/\/pages\/contact"
-          }
-        }
-      },
-      "block_order": [
-        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-0",
-        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-1",
-        "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/dashmeyer_bec50470-62b2-4e43-b8be-56131bda095e.png",
-        "height": "small",
-        "desktop_image_width": "large",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "1563bae2-e127-48bc-8f75-590e34133b00",
+    "7a0f764c-4bcd-42a7-ad4e-84118a7bde83",
     "7b2418e1-3a45-4e00-9e40-151bc0a28b3e",
     "image_banner",
     "bd98ded7-c525-494d-aeac-f80ee10081ed",
     "f71689b5-4c80-4d8a-a04d-6320189a8d13",
     "rich_text",
     "869d41fd-63c8-4283-95a4-a591ee8e9df4",
-    "82e48ad8-9378-47b9-911e-dc753309d50d",
-    "7a0f764c-4bcd-42a7-ad4e-84118a7bde83"
+    "82e48ad8-9378-47b9-911e-dc753309d50d"
   ]
 }
