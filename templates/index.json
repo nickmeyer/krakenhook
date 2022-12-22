@@ -90,6 +90,7 @@
     },
     "7b2418e1-3a45-4e00-9e40-151bc0a28b3e": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--16391690911986__7b2418e1-3a45-4e00-9e40-151bc0a28b3e-1669836039c22b9b67-0": {
           "type": "slide",
@@ -261,8 +262,8 @@
       ],
       "settings": {
         "product": "handcrafted-custom-serving-tray-24",
-        "color_scheme": "inverse",
-        "secondary_background": false,
+        "color_scheme": "background-1",
+        "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -357,6 +358,7 @@
     },
     "869d41fd-63c8-4283-95a4-a591ee8e9df4": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--16391690911986__869d41fd-63c8-4283-95a4-a591ee8e9df4-16686487243c82ca2f-0": {
           "type": "heading",
