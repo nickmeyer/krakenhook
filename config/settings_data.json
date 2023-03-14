@@ -41,6 +41,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "",
               "color_scheme": "background-1",
@@ -49,6 +50,7 @@
           },
           "466c6fdc-1a02-4400-9d7e-e426a9d89ad9": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Buy One Custom Serving Board Get Another 25% Off",
               "color_scheme": "accent-1",
