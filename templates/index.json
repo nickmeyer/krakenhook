@@ -13,7 +13,7 @@
         "template--16391690911986__7a0f764c-4bcd-42a7-ad4e-84118a7bde83-1671716661623c9276-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to Meyer Custom, where we specialize in crafting custom dash panels for your boat. Our team has years of experience in precision craftsmanship, ensuring that every panel we create is unique and one-of-a-kind.<br\/><br\/>At Meyer Custom, we offer a wide range of CNC services, including custom marine dash panels, custom fabrication, and much more. We're committed to providing our customers with exceptional service and high-quality products that meet their specific needs.<\/p><p>If you're ready to take your boat to the next level, contact us today to learn more about our custom dash panels and CNC services. Email us at <a href=\"mailto:info@meyercustom.com\">info@meyercustom.com<\/a>, and one of our team members will be happy to assist you.<\/p><p><\/p><p><\/p>",
+            "text": "<p>At Meyer Custom, we just can't get enough of making super unique dash panels and woodworking goodies that are a perfect match for your style and personality! We'd seriously love to team up with you and make something extra special that you'll enjoy and feel great about. <\/p><p>We want you to know that your satisfaction is our top priority, and we will work closely with you every step of the way to ensure that the final product is not only unique but also meets your specific needs.<br\/><br\/>If you're ready to take your boat to the next level, contact us today to learn more about our custom dash panels and CNC services. Email us at <a href=\"mailto:info@meyercustom.com\">info@meyercustom.com<\/a> and one of our team members will be happy to assist you.<\/p><p><\/p><p><\/p>",
             "text_style": "body"
           }
         },
@@ -46,7 +46,6 @@
     },
     "1563bae2-e127-48bc-8f75-590e34133b00": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-0": {
           "type": "heading",
@@ -75,6 +74,7 @@
         "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-1",
         "template--16391690911986__1563bae2-e127-48bc-8f75-590e34133b00-16703343717eaefaa8-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_4844.jpg",
         "height": "small",
@@ -91,7 +91,6 @@
     },
     "7b2418e1-3a45-4e00-9e40-151bc0a28b3e": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16391690911986__7b2418e1-3a45-4e00-9e40-151bc0a28b3e-1669836039c22b9b67-0": {
           "type": "slide",
@@ -135,6 +134,7 @@
         "template--16391690911986__7b2418e1-3a45-4e00-9e40-151bc0a28b3e-1669836039c22b9b67-0",
         "template--16391690911986__7b2418e1-3a45-4e00-9e40-151bc0a28b3e-1669836039c22b9b67-1"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "adapt_image",
@@ -147,7 +147,6 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -172,6 +171,7 @@
         "heading",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/meyer_servingtray.png",
         "image_overlay_opacity": 0,
@@ -188,7 +188,6 @@
     },
     "bd98ded7-c525-494d-aeac-f80ee10081ed": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-0": {
           "type": "text",
@@ -262,6 +261,7 @@
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-7",
         "a69ff254-e2bf-4217-ab58-bcd679fab683"
       ],
+      "disabled": true,
       "settings": {
         "product": "handcrafted-custom-serving-tray-24",
         "color_scheme": "background-1",
@@ -274,7 +274,6 @@
     },
     "f71689b5-4c80-4d8a-a04d-6320189a8d13": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16391690911986__f71689b5-4c80-4d8a-a04d-6320189a8d13-1665598258e26b1fda-0": {
           "type": "slide",
@@ -318,6 +317,7 @@
         "template--16391690911986__f71689b5-4c80-4d8a-a04d-6320189a8d13-1665598258e26b1fda-0",
         "template--16391690911986__f71689b5-4c80-4d8a-a04d-6320189a8d13-1665598258e26b1fda-1"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "adapt_image",
@@ -360,7 +360,6 @@
     },
     "869d41fd-63c8-4283-95a4-a591ee8e9df4": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--16391690911986__869d41fd-63c8-4283-95a4-a591ee8e9df4-16686487243c82ca2f-0": {
           "type": "heading",
@@ -394,6 +393,7 @@
         "template--16391690911986__869d41fd-63c8-4283-95a4-a591ee8e9df4-16686487243c82ca2f-1",
         "template--16391690911986__869d41fd-63c8-4283-95a4-a591ee8e9df4-16686487243c82ca2f-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/wine_50adad45-b277-4785-b933-9a048589b016.png",
         "image_overlay_opacity": 30,
@@ -410,7 +410,6 @@
     },
     "82e48ad8-9378-47b9-911e-dc753309d50d": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16391690911986__82e48ad8-9378-47b9-911e-dc753309d50d-166983528806d9b64d-0": {
           "type": "slide",
@@ -510,6 +509,7 @@
         "9ee9120a-9789-4b1e-bd0e-19eb18fce62f",
         "b8bd68ff-8337-4810-9836-fb8b5e43b371"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "small",
