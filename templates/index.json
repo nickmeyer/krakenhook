@@ -135,7 +135,6 @@
         "template--16391690911986__7b2418e1-3a45-4e00-9e40-151bc0a28b3e-1669836039c22b9b67-0",
         "template--16391690911986__7b2418e1-3a45-4e00-9e40-151bc0a28b3e-1669836039c22b9b67-1"
       ],
-      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "adapt_image",
@@ -219,7 +218,6 @@
         },
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-4": {
           "type": "variant_picker",
-          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
@@ -262,9 +260,8 @@
         "template--16391690911986__bd98ded7-c525-494d-aeac-f80ee10081ed-1669772510afd5629d-7",
         "a69ff254-e2bf-4217-ab58-bcd679fab683"
       ],
-      "disabled": true,
       "settings": {
-        "product": "handcrafted-custom-serving-tray-24",
+        "product": "custom-serving-tray",
         "color_scheme": "background-1",
         "secondary_background": true,
         "hide_variants": false,
