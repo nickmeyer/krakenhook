@@ -69,9 +69,9 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/Artboard_6_3x_8de1a4fe-e8db-4ab1-893b-cb3b09fde96d.png",
-          "logo_width": 220,
-          "logo_position": "top-center",
+          "logo": "shopify:\/\/shop_images\/MeyerCustomLogo.svg",
+          "logo_width": 250,
+          "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "mega",
           "show_line_separator": true,
